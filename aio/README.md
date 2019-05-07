@@ -23,7 +23,7 @@ Docker host should be **Linux x86_64**.   Follow the [Docker Instructions](https
 
 ### 2) Download the docker image
 
-    docker pull openbmp/aio
+    docker pull gitfreebeer/openbmp-aio
 
 - - -
 ### 3) Create MySQL volumes
